@@ -23,6 +23,3 @@ class Solution {
 $obj = new Solution();
 
 print_r($obj->twoSum([3,2,4], 6));
-
-///*$a = 0;
-//var_dump($a !== false);*/

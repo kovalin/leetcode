@@ -68,4 +68,4 @@ class Solution
 
 
 $obj = new Solution();
-print_r($obj->uniquePathsIII([[0,1],[2,0]]));
+print_r($obj->uniquePathsIII([[1,0,0,0],[0,0,0,0],[0,0,0,2]]));
